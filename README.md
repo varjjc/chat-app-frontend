@@ -19,7 +19,7 @@ Este es el frontend de una aplicación de chat en tiempo real diseñada para cla
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/chat-app-frontend.git
+   git clone https://github.com/varjjc/chat-app-frontend.git
    cd chat-app-frontend
 
 2. **Instalar las dependencias**
